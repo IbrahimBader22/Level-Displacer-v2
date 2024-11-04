@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Level Displacer</Name>
+		<Assembly>C:\Users\USER\source\repos\Level Displacer\bin\Debug\Level Displacer.dll</Assembly>
+		<AddInId>3AB37E70-E290-4579-A406-5A06C1A326F1</AddInId>
+		<FullClassName>LevelDisplacer.LevelDisplacerCommand</FullClassName>
+		<VendorId>MyCompanyName</VendorId>
+		<VendorDescription>MyCompanyDescription - Specialized in Revit tools</VendorDescription>
+		<Description>Tool for displacing levels and their hosted elements</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<!-- Optional -->
+	</AddIn>
+</RevitAddIns>
+
+
